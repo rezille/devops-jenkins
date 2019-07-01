@@ -20,7 +20,7 @@ node {
   }
   
   stage('Deploy'){
-    //TBC
+    //TBC, transfer hello.py to hyebin:/app
   }
   
   
